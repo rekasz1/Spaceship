@@ -1,0 +1,32 @@
+*{
+    box-sizing:border-box;
+}
+
+body {
+    margin: 0;
+    /* padding: 20px; */
+}
+
+div{
+    display: flex;
+    justify-content:center;
+    height: 100px;
+    background-color: wheat;
+    align-items: center;
+}
+
+
+
+button {
+position: absolute;
+text-align: center;
+background-color:teal;
+color:white;
+font-weight: bold;
+border-radius: 4px;
+font-size: 30px; 
+border: none;
+width: 400px;
+height: 50px;
+}
+
